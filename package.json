@@ -1,0 +1,19 @@
+{
+  "name": "image",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "cloudinary": "^1.27.1",
+    "cors": "^2.8.5",
+    "dot-env": "^0.0.1",
+    "express": "^4.17.1",
+    "netlify": "^8.0.1"
+  },
+  "devDependencies": {
+    "netlify-cli": "^6.12.3"
+  }
+}
